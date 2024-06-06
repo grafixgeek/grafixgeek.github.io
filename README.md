@@ -7,4 +7,6 @@ Add a line to push.
 
 Publish from Web branch.
 
-Add a [link](https://www.google.com)
+Add a link to  [google.com](https://www.google.com)
+
+Add an internal link [about])(/about.md)
