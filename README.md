@@ -9,4 +9,4 @@ Publish from Web branch.
 
 Add a link to  [google.com](https://www.google.com)
 
-Add an internal link [about])(/about.md)
+Add an internal link [about](/about.md)
